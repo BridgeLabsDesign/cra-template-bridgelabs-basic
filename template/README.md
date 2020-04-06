@@ -2,6 +2,14 @@
 
 This project uses is a basic react bootstrapp which applies the basic react guidelines for react web apps within Bridge Labs.
 
+### Post-install
+
+After you successfully download this template, it is required to install the dev dependencies that will support the linting on your files:
+
+```shell
+yarn add babel-eslint eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks prettier
+```
+
 ### Run the project
 
 After successfully installing the project you can run the following scripts to:

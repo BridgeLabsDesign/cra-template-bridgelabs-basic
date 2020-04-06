@@ -1,6 +1,6 @@
 {
   "name": "cra-template-bridgelabs-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bridge Labs basic react template",
   "main": "template.json",
   "keywords": [
