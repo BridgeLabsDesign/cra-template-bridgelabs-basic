@@ -2,6 +2,7 @@
   "name": "cra-template-bridgelabs-basic",
   "version": "1.0.0",
   "description": "Bridge Labs basic react template",
+  "main": "template.json",
   "keywords": [
     "react",
     "create-react-app",
@@ -14,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/BridgeLabsDesign/cra-template-bridgelabs-basic.git"
   },
-  "author": "Bridge Labs Design",
-  "license": "ISC",
+  "author": "Bruno Kiafuka <bruno@bridgelabs.design> (https://kiafuka.dev)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/BridgeLabsDesign/cra-template-bridgelabs-basic/issues"
   },
