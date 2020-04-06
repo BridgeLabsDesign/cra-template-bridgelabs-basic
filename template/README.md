@@ -67,4 +67,4 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 "prettier": "^2.0.4"
 ```
 
-> This project follows the [Airbnb linting](https://www.npmjs.com/package/eslint-config-airbnb) guidelines.
+> This project uses the [Airbnb linting](https://www.npmjs.com/package/eslint-config-airbnb) guidelines.
