@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/BridgeLabsDesign/cra-template-bridgelabs-basic/issues"
   },
-  "homepage": "https://github.com/BridgeLabsDesign/cra-template-bridgelabs-basic#readme"
+  "homepage": "https://github.com/BridgeLabsDesign/cra-template-bridgelabs-basic#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
